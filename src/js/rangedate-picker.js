@@ -28,6 +28,13 @@ const presetRangeLabel = {
     lastMonth: 'Bulan lalu',
     lastSevenDays: '7 Hari Terakhir',
     lastThirtyDays: '30 Hari Terakhir'
+  },
+  ES: {
+    today: 'Hoy',
+    thisMonth: 'Este mes',
+    lastMonth: 'Mes Pasado',
+    lastSevenDays: '7 Dias Atras',
+    lastThirtyDays: '30 Dias Atras'
   }
 }
 
